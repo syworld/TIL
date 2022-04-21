@@ -393,7 +393,7 @@ request 기본 객체는 컨텍스트 경로를 제공하는 메소드를 정의
 
 ```
 <img width="865" alt="jsp11" src="https://user-images.githubusercontent.com/103729286/164481612-7b503e50-16e0-4bfe-baee-14c1f2ba00e7.png">
-<img width="861" alt="jsp12" src="https://user-images.githubusercontent.com/103729286/164481625-528ddb42-50a6-4bed-a988-cf4342071683.png">
+<img width="865" alt="jsp12" src="https://user-images.githubusercontent.com/103729286/164481625-528ddb42-50a6-4bed-a988-cf4342071683.png">
 
 
  
