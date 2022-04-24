@@ -20,5 +20,5 @@
 
 
 ## System Desgin
-* <a href = "https://github.com/syworld/TIL/blob/main/System-Desgin/scalability-with-number-of-users.md">사용자 수에 따른 규모 확장성</a>
-* <a href = "https://github.com/syworld/TIL/blob/main/System-Desgin/rough-estimate-of-scale.md">개략적인 규모 추정</a>
+* <a href = "https://github.com/syworld/TIL/blob/main/System-Design/scalability-with-number-of-users.md">사용자 수에 따른 규모 확장성</a>
+* <a href = "https://github.com/syworld/TIL/blob/main/System-Design/rough-estimate-of-scale.md">개략적인 규모 추정</a>
