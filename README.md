@@ -32,4 +32,4 @@
 
 
 ## JavaScript
-* <a href = "https://github.com/syworld/TIL/blob/main/Javascript/inside-javascript.md">JavaScript 기본 원리</a>
+* <a href = "https://github.com/syworld/TIL/blob/main/JavaScript/inside-javascript.md">JavaScript 기본 원리</a>
