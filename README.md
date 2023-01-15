@@ -28,6 +28,11 @@
 * <a href = "https://github.com/syworld/TIL/blob/main/Spring/spring-oop-design-pattern.md">디자인 패턴</a>
 
 
+* **자바 ORM 표준 JPA 프로그래밍**
+  * <a href = "https://github.com/syworld/TIL/blob/main/Spring/jpa-introduction.md">JPA 기초</a>
+  * <a href = "https://github.com/syworld/TIL/blob/main/Spring/hello-jpa.md">Hello JPA 실습</a>
+  * <a href = "https://github.com/syworld/TIL/blob/main/Spring/jpa-persistence-context.md">JPA 영속성 컨텍스트</a>
+
 
 ## System Design
 * <a href = "https://github.com/syworld/TIL/blob/main/System-Design/scalability-with-number-of-users.md">사용자 수에 따른 규모 확장성</a>
